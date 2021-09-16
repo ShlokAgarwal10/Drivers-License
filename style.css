@@ -1,0 +1,30 @@
+.dl{
+    width:100%;
+    color:whitesmoke;
+    text-align: center;
+    margin:0px;
+    padding:0px;
+    height:50px;
+    background-image: url("-.JPG");
+    background-size:cover;
+}
+#wtp{
+    background-image:url("wtp.png");
+    width:300px;
+    height:300px;
+    border-radius:200px;
+    background-size:cover;
+    border:2px solid black;
+}
+#wtp:hover{
+    transform:scale(0.9);
+}
+body{
+    background-color: goldenrod;
+    background-size:cover;
+    
+}
+.p{
+    color:white;
+    margin-left: 500px;
+}
